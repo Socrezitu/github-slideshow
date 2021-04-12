@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Man this is triple sheets"
 Use the left arrow to go back!
